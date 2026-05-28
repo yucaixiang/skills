@@ -1,0 +1,1 @@
+# API 网关\n\n## 概述\n统一API网关，负责路由转发、限流、鉴权。\n\n## 技术栈\n- Kong Gateway\n- Nginx\n- Redis (限流计数)

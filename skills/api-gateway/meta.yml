@@ -1,0 +1,9 @@
+name: api-gateway
+displayName: API 网关
+category: project
+description: "API 网关的技术架构和配置指南"
+owner: zhangsan
+team: platform
+tags: [gateway,nginx,kong,routing]
+accessLevel: internal
+version: "1.0.0"
