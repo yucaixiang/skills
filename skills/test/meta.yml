@@ -1,0 +1,8 @@
+name: test
+displayName: test
+category: project
+description: ""
+owner: james yu
+team: bit
+accessLevel: internal
+version: "1.0.0"
