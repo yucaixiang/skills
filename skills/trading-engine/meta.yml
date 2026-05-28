@@ -1,0 +1,9 @@
+name: trading-engine
+displayName: 交易撮合引擎
+category: project
+description: "高性能交易撮合引擎的技术文档和运维知识"
+owner: lisi
+team: trading
+tags: [java, matching, orderbook, low-latency]
+accessLevel: internal
+version: "2.1.0"

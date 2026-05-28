@@ -1,0 +1,9 @@
+name: marketing-platform
+displayName: 营销平台
+category: project
+description: "营销活动平台的技术文档和运营配置指南"
+owner: zhangsan
+team: growth
+tags: [java, marketing, coupon, campaign]
+accessLevel: internal
+version: "2.0.0"

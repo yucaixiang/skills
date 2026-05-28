@@ -1,0 +1,9 @@
+name: oncall-trading
+displayName: 交易系统值班手册
+category: oncall
+description: "交易系统值班人员的排障手册和常见问题处理"
+owner: lisi
+team: trading
+tags: [oncall, trading, troubleshooting]
+accessLevel: internal
+version: "1.4.0"

@@ -1,0 +1,9 @@
+name: hytech-cpa
+displayName: HyTech CPA 综合管理平台
+category: project
+description: "HyTech CPA 注册会计师综合管理平台的技术文档和开发规范"
+owner: zhangsan
+team: cpa-dev
+tags: [java, springboot, cpa, accounting]
+accessLevel: internal
+version: "1.2.0"

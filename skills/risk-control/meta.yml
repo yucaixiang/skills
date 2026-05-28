@@ -1,0 +1,9 @@
+name: risk-control
+displayName: 风控系统
+category: project
+description: "实时风控系统的规则引擎和配置文档"
+owner: wangwu
+team: risk
+tags: [java, drools, risk, realtime]
+accessLevel: confidential
+version: "1.5.0"

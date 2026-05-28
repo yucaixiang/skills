@@ -1,0 +1,9 @@
+name: payment-system
+displayName: 支付系统
+category: project
+description: "支付系统的对接规范和技术架构文档"
+owner: zhaoliu
+team: payment
+tags: [java, payment, gateway, settlement]
+accessLevel: internal
+version: "3.0.1"

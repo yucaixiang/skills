@@ -1,0 +1,25 @@
+categories:
+  - name: project
+    displayName: 项目知识
+    description: 项目架构、核心流程、技术选型
+    color: blue
+  - name: role
+    displayName: 角色规范
+    description: 编码规范、测试策略、设计原则
+    color: green
+  - name: process
+    displayName: 流程知识
+    description: 应急响应、发布流程、代码审查
+    color: orange
+  - name: knowledge
+    displayName: 业务知识
+    description: 产品规则、领域概念、业务逻辑
+    color: purple
+  - name: oncall
+    displayName: 值班手册
+    description: 排查手册、回滚操作、联系人
+    color: red
+  - name: monitor
+    displayName: 监控告警
+    description: 告警规则、阈值设置、自动恢复
+    color: cyan

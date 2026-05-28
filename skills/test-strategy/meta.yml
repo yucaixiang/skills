@@ -1,0 +1,9 @@
+name: test-strategy
+displayName: 测试策略
+category: process
+description: "团队测试策略，包括单元测试、集成测试、E2E测试规范"
+owner: zhaoliu
+team: qa
+tags: [testing, junit, e2e, quality]
+accessLevel: public
+version: "1.0.0"

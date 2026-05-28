@@ -1,0 +1,9 @@
+name: monitor-alerts
+displayName: 监控告警配置
+category: monitor
+description: "Prometheus/Grafana 监控告警规则和配置指南"
+owner: lisi
+team: sre
+tags: [prometheus, grafana, alertmanager, monitor]
+accessLevel: internal
+version: "1.1.0"

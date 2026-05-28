@@ -1,0 +1,9 @@
+name: trading-rules
+displayName: 交易业务规则
+category: knowledge
+description: "交易业务规则和产品逻辑文档"
+owner: zhangsan
+team: trading
+tags: [trading, business, rules, product]
+accessLevel: internal
+version: "2.2.0"
