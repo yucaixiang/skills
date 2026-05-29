@@ -7,3 +7,9 @@ team: cpa-dev
 tags: [java, springboot, cpa, accounting]
 accessLevel: internal
 version: "1.2.0"
+
+# 飞书文档引用（示例配置）
+larkDocs:
+  - url: "https://test-dgdofx68ruhp.sg.larksuite.com/wiki/JH9Ww1rkpiKmk5kEtjeln6XPgfy"
+    saveTo: "docs/architecture.md"
+    title: "系统架构设计文档"
