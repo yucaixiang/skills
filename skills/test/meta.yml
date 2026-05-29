@@ -6,3 +6,8 @@ owner: james yu
 team: bit
 accessLevel: internal
 version: "1.0.0"
+
+larkDocs:
+    - url: "https://test-dgdofx68ruhp.sg.larksuite.com/wiki/HQh4wDZo6iPCkik9Negl2RQNgig"                                                                                                                                                     
+      saveTo: "docs/hytech-cpa-job.md"                              
+      title: "hytech-cpa-job 交易数据同步定时任务"                                                                                                                                                                                                              
