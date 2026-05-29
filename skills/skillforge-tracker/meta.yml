@@ -1,0 +1,8 @@
+name: skillforge-tracker
+displayName: SkillForge Tracker
+category: process
+description: "SkillForge 平台运维（知识源自动同步、版本检查、使用统计、本地 skill 改动提交审核）"
+owner: skillforge-team
+team: skillforge
+accessLevel: internal
+version: "1.1.0"
