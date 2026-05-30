@@ -1,15 +1,31 @@
 name: hytech-cpa
-displayName: HyTech CPA 综合管理平台
+displayName: hytech-cpa 代理佣金管理系统
 category: project
-description: "HyTech CPA 注册会计师综合管理平台的技术文档和开发规范"
-owner: zhangsan
-team: cpa-dev
-tags: [java, springboot, cpa, accounting]
+description: "公司自研代理佣金管理系统（CPA, Cost Per Action），替换第三方 Cellxpert。覆盖代理账户、客户、佣金规则、协议、佣金计算、多层级分润、结算支付、BPM 审批、报告统计全流程。"
+owner: hytech-cpa-team
+team: cpa
+tags: [java, springboot, springcloud, cpa, forex, commission, bpm]
 accessLevel: internal
-version: "1.2.0"
+version: "1.0.0"
 
-# 飞书文档引用（示例配置）
-larkDocs:
-  - url: "https://test-dgdofx68ruhp.sg.larksuite.com/wiki/JH9Ww1rkpiKmk5kEtjeln6XPgfy"
-    saveTo: "docs/architecture.md"
-    title: "系统架构设计文档"
+# 关联 Skill（安装本 Skill 时自动级联安装）
+relatedSkills:
+  - dev-standards
+  - karpathy-guidelines
+
+# 代码仓库自动同步（私有 GitLab，需公司 VPN）
+gitRepos:
+  - url: "git@gitlab.company.internal:hytech/hytech-cpa.git"
+    saveTo: "repos/hytech-cpa"
+    branch: "main"
+    sparse:
+      - "README.md"
+      - "数据迁移doc"
+      - "docs"
+      - "hytech-cpa-common"
+      - "hytech-cpa-core-backend"
+      - "hytech-cpa-admin/cpa-admin-service/cpa-admin-business"
+      - "hytech-cpa-client/cpa-client-service/cpa-client-business"
+      - "hytech-cpa-job/cpa-job-executor"
+      - "hytech-cpa-alert"
+      - "hytech-cpa-bpm"
