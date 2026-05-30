@@ -1,9 +1,15 @@
 name: risk-control
-displayName: 风控系统
-category: project
-description: "实时风控系统的规则引擎和配置文档"
-owner: wangwu
+displayName: hytech-cpa 业务风控
+category: oncall
+description: "hytech-cpa 业务风控 — 6 大风控场景（异常出金、刷量、虚假客户、规则套利、关系造假、规模异常）+ 实时与离线监测 + 应急冻结 SOP + 风控规则配置最佳实践。"
+owner: risk-team
 team: risk
-tags: [java, drools, risk, realtime]
+tags: [risk, fraud, hytech-cpa, compliance, monitoring]
 accessLevel: confidential
-version: "1.5.0"
+version: "2.0.0"
+
+relatedSkills:
+  - hytech-cpa
+  - oncall-trading
+  - incident-response
+  - lark-cli

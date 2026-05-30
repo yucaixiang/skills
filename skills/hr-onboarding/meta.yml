@@ -1,0 +1,13 @@
+name: hr-onboarding
+displayName: 新员工入职流程
+category: process
+description: "HR 新员工入职自动化 — 建群、拉人、发欢迎语、推送指南、安排 mentor 全套动作，与 lark-cli 深度联动。"
+owner: hr-team
+team: hr
+tags: [hr, onboarding, automation, lark]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - lark-cli
+  - hytech-cpa

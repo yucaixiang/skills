@@ -1,0 +1,13 @@
+name: meeting-summary
+displayName: AI 自动总结会议/群讨论
+category: process
+description: "AI 自动总结会议 / 群讨论 — 议题 / 讨论 / 结论 / 待办 四段式提炼，自动同步飞书文档 + 建待办任务 + 通知相关人。SkillForge 杀手锏组合场景。"
+owner: skillforge-team
+team: platform
+tags: [meeting, summary, lark, automation, ai]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - lark-cli
+  - skillforge-tracker

@@ -1,0 +1,15 @@
+name: campaign-review
+displayName: 运营活动复盘框架
+category: process
+description: "运营活动复盘 Skill — 目标/数据/洞察/行动 四段式结构，自动从 hytech-cpa 拉真实数据生成结构化复盘文档。覆盖代理招募、客户拉新、佣金调整、出金优化等场景。"
+owner: ops-team
+team: operations
+tags: [campaign, review, retrospective, analytics, operations]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - data-query
+  - user-analysis
+  - hytech-cpa
+  - lark-cli

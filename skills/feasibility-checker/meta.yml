@@ -1,0 +1,14 @@
+name: feasibility-checker
+displayName: 技术可行性自检
+category: process
+description: "产品出 PRD 时自助评估技术可行性 — 架构、数据、性能、安全、依赖、工期 6 维度给绿/黄/红信号。基于 hytech-cpa 真实架构反推。"
+owner: product-team
+team: product
+tags: [product, prd, feasibility, architecture]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - prd-template
+  - hytech-cpa
+  - code-walkthrough

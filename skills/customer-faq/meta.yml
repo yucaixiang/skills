@@ -1,0 +1,15 @@
+name: customer-faq
+displayName: 客服话术与 FAQ
+category: process
+description: "针对 hytech-cpa 代理 / 客户咨询的标准答复 Skill — 共情/答复/行动/升级 4 段式结构，覆盖佣金、出金、协议、关系、技术故障 6 大类高频问题。"
+owner: customer-service
+team: customer-service
+tags: [customer-service, faq, support, hytech-cpa]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - hytech-cpa
+  - data-query
+  - oncall-trading
+  - lark-cli

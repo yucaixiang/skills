@@ -1,0 +1,14 @@
+name: weekly-report
+displayName: AI 自动写周报
+category: process
+description: "AI 自动写周报 — 端到端串联拉数据（飞书任务/Git/Jira）→ 套公司模板 → 同步飞书全流程。SkillForge 杀手锏组合场景。"
+owner: skillforge-team
+team: platform
+tags: [weekly-report, automation, lark, productivity, ai]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - lark-cli
+  - hytech-cpa
+  - skillforge-tracker

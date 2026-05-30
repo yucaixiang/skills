@@ -1,9 +1,15 @@
 name: oncall-trading
-displayName: 交易系统值班手册
+displayName: hytech-cpa 值班手册
 category: oncall
-description: "交易系统值班人员的排障手册和常见问题处理"
-owner: lisi
-team: trading
-tags: [oncall, trading, troubleshooting]
+description: "hytech-cpa 代理佣金管理系统 7×24 值班 SOP — 告警分级、5 步通用排查法、7 个典型故障 SOP、应急工具箱、战时群规范、复盘流程。"
+owner: ops-team
+team: ops
+tags: [oncall, hytech-cpa, troubleshooting, sop]
 accessLevel: internal
-version: "1.4.0"
+version: "2.0.0"
+
+relatedSkills:
+  - hytech-cpa
+  - code-walkthrough
+  - incident-response
+  - lark-cli
