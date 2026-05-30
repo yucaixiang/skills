@@ -1,0 +1,14 @@
+name: test-case-generator
+displayName: 测试用例自动设计生成器
+category: process
+description: "基于需求 + 真实代码生成结构化测试用例 — 等价类 / 边界值 / 决策表 / 状态机 / 流程覆盖五大方法论。生成功能、接口、异常、性能、状态机用例。覆盖率自检 + 多种输出格式。"
+owner: qa-team
+team: quality
+tags: [test, qa, test-design, test-case, methodology]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - hytech-cpa
+  - code-walkthrough
+  - api-test-automation

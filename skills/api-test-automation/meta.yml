@@ -1,0 +1,15 @@
+name: api-test-automation
+displayName: API 自动化测试脚本生成
+category: process
+description: "后端 API 自动化测试 Skill — 基于测试用例自动生成 JUnit 5 + RestAssured 风格的 Java 测试脚本。覆盖鉴权、数据驱动、异步等待、CI 集成、飞书告警。与 test-case-generator 串联形成完整闭环。"
+owner: qa-team
+team: quality
+tags: [test, automation, junit, restassured, ci, api]
+accessLevel: internal
+version: "1.0.0"
+
+relatedSkills:
+  - test-case-generator
+  - code-walkthrough
+  - hytech-cpa
+  - lark-cli
