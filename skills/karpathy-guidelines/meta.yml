@@ -1,6 +1,6 @@
 name: karpathy-guidelines
 displayName: karpathy-guidelines
-category: project
+category: dev
 description: "这个项目主要是为 Claude Code（Anthropic 推出的终端 AI 编码工具）以及 Cursor 等 AI 编程助手设计的行为约束准则（Behavioral Guidelines）。它通常被写进项目的 CLAUDE.md 或 .cursor/rules/karpathy-guidelines.mdc 文件中，用来强力规范 AI 的编码行为，防止 AI 把代码“写崩”。"
 owner: james yu
 team: bit

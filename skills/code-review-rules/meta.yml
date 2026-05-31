@@ -1,6 +1,6 @@
 name: code-review-rules
 displayName: 代码评审准则
-category: process
+category: dev
 description: "代码评审 Skill — 从业务正确性、需求一致性、技术规范三视角系统化评审 PR。融合阿里 Java 规范 + hytech-cpa 真实评审实践，含严重度分级 (Blocker/Major/Minor) 与反例库。配合公司 PR + 审批流程使用。"
 owner: tech-committee
 team: platform

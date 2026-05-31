@@ -1,6 +1,6 @@
 name: code-walkthrough
 displayName: 代码理解助手
-category: process
+category: dev
 description: "跨项目代码理解 Skill — 教 AI 系统化阅读、串联、解释任何 Java 后端代码。4 视角阅读法 + 7 步流程 + 6 个跨岗位场景。让测试/产品/新员工也能自助理解代码。"
 owner: tech-committee
 team: platform

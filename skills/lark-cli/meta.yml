@@ -1,6 +1,6 @@
 name: lark-cli
 displayName: lark-cli 飞书官方 AI Agent CLI 集成
-category: process
+category: platform
 description: "飞书官方 CLI 工具集成 — 让 AI 直接操作飞书消息、文档、表格、日历、邮件、任务、视频会议、OKR、审批等。一次集成开箱即用 26 个子 Skill，覆盖 18 大业务域、200+ 命令。"
 owner: skillforge-team
 team: skillforge

@@ -1,6 +1,6 @@
 name: user-analysis
 displayName: 用户分析框架
-category: process
+category: ops-data
 description: "用户分析 Skill — RFM、AARRR、漏斗、Cohort、LTV 五大经典模型在 hytech-cpa 场景下的具体落地 SQL。覆盖代理画像、分层、留存、流失、价值贡献分析。"
 owner: ops-team
 team: operations

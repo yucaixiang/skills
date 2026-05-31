@@ -1,6 +1,6 @@
 name: oncall-trading
 displayName: hytech-cpa 值班手册
-category: oncall
+category: ops
 description: "hytech-cpa 代理佣金管理系统 7×24 值班 SOP — 告警分级、5 步通用排查法、7 个典型故障 SOP、应急工具箱、战时群规范、复盘流程。"
 owner: ops-team
 team: ops

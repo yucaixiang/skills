@@ -1,6 +1,6 @@
 name: monitor-alerts
 displayName: 监控告警配置
-category: monitor
+category: ops
 description: "Prometheus/Grafana 监控告警规则和配置指南"
 owner: lisi
 team: sre

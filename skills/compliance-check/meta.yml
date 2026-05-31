@@ -1,6 +1,6 @@
 name: compliance-check
 displayName: 合规自检清单
-category: process
+category: support
 description: "合规自检 Skill — 数据隐私、AML/KYC、跨境数据、监管报送、操作审计 5 大维度自助检查。基于 hytech-cpa 真实业务约束。让合规风险事前识别，而非事后救火。"
 owner: compliance-team
 team: compliance

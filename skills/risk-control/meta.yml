@@ -1,6 +1,6 @@
 name: risk-control
 displayName: hytech-cpa 业务风控
-category: oncall
+category: ops
 description: "hytech-cpa 业务风控 — 6 大风控场景（异常出金、刷量、虚假客户、规则套利、关系造假、规模异常）+ 实时与离线监测 + 应急冻结 SOP + 风控规则配置最佳实践。"
 owner: risk-team
 team: risk

@@ -1,6 +1,6 @@
 name: incident-response
 displayName: 重大故障应急流程
-category: oncall
+category: ops
 description: "P0/P1 重大故障的标准化应急流程 — IC 指挥官、5 阶段流程、模板化沟通、跨团队协调、复盘机制。与 oncall-trading 配合：值班用于日常 SOP，本 Skill 用于重大故障指挥。"
 owner: tech-committee
 team: sre

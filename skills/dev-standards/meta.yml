@@ -1,6 +1,6 @@
 name: dev-standards
 displayName: 公司 Java 后端开发规范
-category: process
+category: dev
 description: "Java 后端通用开发规范 — 融合《阿里巴巴 Java 开发手册》经典条款 + hytech-cpa 项目真实实践 + 业界通用最佳实践。涵盖命名、风格、注释、异常、并发、SQL、安全、单测、Git/PR 流程。"
 owner: tech-committee
 team: platform

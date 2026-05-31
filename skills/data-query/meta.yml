@@ -1,6 +1,6 @@
 name: data-query
 displayName: 数据自助查询
-category: process
+category: ops-data
 description: "让运营 / 产品 / BD 不会 SQL 也能自助拉数 — 基于 hytech-cpa 真实数据模型，按业务问题自动生成 SQL，覆盖代理、佣金、客户、出金、分润等常见场景。"
 owner: ops-team
 team: operations

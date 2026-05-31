@@ -1,6 +1,6 @@
 name: prd-template
 displayName: 公司 PRD 标准模板
-category: process
+category: product
 description: "公司标准 PRD（产品需求文档）模板与撰写指南 — 8 章节结构、5 大原则、自检 Checklist。AI 按统一模板生成结构化产品需求文档。"
 owner: product-team
 team: product
